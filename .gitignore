@@ -1,3 +1,37 @@
 
 .DS_Store
 worksmile-test.xcodeproj/xcuserdata/cze.xcuserdatad/xcschemes/xcschememanagement.plist
+Podfile.lock
+Pods/Manifest.lock
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/cze.xcuserdatad/xcschemes/Pods-worksmile-test-worksmile-testUITests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/cze.xcuserdatad/xcschemes/Pods-worksmile-test.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/cze.xcuserdatad/xcschemes/Pods-worksmile-testTests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/cze.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests-acknowledgements.markdown
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests-acknowledgements.plist
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests-dummy.m
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests-Info.plist
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests-umbrella.h
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests.debug.xcconfig
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests.modulemap
+Pods/Target Support Files/Pods-worksmile-test-worksmile-testUITests/Pods-worksmile-test-worksmile-testUITests.release.xcconfig
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test-acknowledgements.markdown
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test-acknowledgements.plist
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test-dummy.m
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test-Info.plist
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test-umbrella.h
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test.debug.xcconfig
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test.modulemap
+Pods/Target Support Files/Pods-worksmile-test/Pods-worksmile-test.release.xcconfig
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests-acknowledgements.markdown
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests-acknowledgements.plist
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests-dummy.m
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests-Info.plist
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests-umbrella.h
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests.debug.xcconfig
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests.modulemap
+Pods/Target Support Files/Pods-worksmile-testTests/Pods-worksmile-testTests.release.xcconfig
+worksmile-test.xcodeproj/project.xcworkspace/xcuserdata/cze.xcuserdatad/UserInterfaceState.xcuserstate
+worksmile-test.xcworkspace/xcuserdata/cze.xcuserdatad/UserInterfaceState.xcuserstate
+worksmile-test.xcodeproj/project.xcworkspace/xcuserdata/cze.xcuserdatad/UserInterfaceState.xcuserstate
